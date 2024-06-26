@@ -1,8 +1,8 @@
-# Resmindo
-Resmindo Merupakan Aplikasi Management Restorant yang kami buat untuk memenuhi tugas besar dari matakuliah Rekayasa Perangkat Lunak yang diampu oleh bapak Alif Finandhita, S.Kom, M.T
+# SIREHE
+SIREHE Merupakan Aplikasi Management Penyedia Minuman Jahe yang kami buat untuk memenuhi tugas besar dari matakuliah Rekayasa Perangkat Lunak yang diampu oleh bapak Alif Finandhita, S.Kom, M.T
 # Anggota Kelompok Kami Antara Lain :
-10121034 - Dikki Yusuf Kartajaya
-10121013 - Hafiizh Alif Syahyudi
-10121029 - Alzha Asshawal
-10121035 - M. Raffi Zeinuri Misbah
-10121037 - Adhiva Deva Azhara Baika Bahri
+10121074 - Muhammad Irsyaad Fatahilah
+10121054 - Rifqi Muhammad Hamzah
+10121043 - Irma Sukmawati Rizal
+10121047 - Syipa Afiyani
+
